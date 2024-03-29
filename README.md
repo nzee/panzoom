@@ -1,6 +1,6 @@
-# Panzo
+# Panzoom
 
-Panzo is a command-line tool that creates smooth panning and zooming videos from a series of images. It allows users to generate dynamic video content from static images, adding motion effects like pan and zoom with random variations to keep each image visually engaging.
+Panzoom is a command-line tool that creates smooth panning and zooming videos from a series of images. It allows users to generate dynamic video content from static images, adding motion effects like pan and zoom with random variations to keep each image visually engaging.
 
 ## Features
 
